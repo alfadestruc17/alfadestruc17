@@ -2,7 +2,7 @@
    <img width="700" src="https://www.informador.mx/__export/1725312155685/sites/elinformador/img/2024/09/02/-el_cu-sar_es_el_objeto_m-s_luminoso_del_universo_version1725312154729.png_2125252216.png">
 </p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
