@@ -31,7 +31,7 @@
 <a href= https://github.com/alfadestruc17?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/alfadestruc17?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
 <a href= https://github.com/alfadestruc17?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://www.php.net/images/logos/new-php-logo.svg'>
-   <a href= https://www.linkedin.com/public-profile/settings > <img width ='32px' src ='https://www.flaticon.es/icono-gratis/linkedin_174857'>
+<a href= https://www.linkedin.com/public-profile/settings > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
    
 </a>
 <h3>
