@@ -22,7 +22,7 @@
   
 -  I’m looking to collaborate on Proyectos
   
-- 💬 Ask me about MySQL, Python
+- 💬 Ask me about MySQL, Python, PHP, JAVA, C++, JavaScript, Laravel
   
 - ⚡ Fun fact: Me gustan los videojuegos.
 
@@ -32,6 +32,7 @@
 <a href= https://github.com/alfadestruc17?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
 <a href= https://github.com/alfadestruc17?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://www.php.net/images/logos/new-php-logo.svg'>
 <a href= https://www.linkedin.com/public-profile/settings > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linkedin.svg'>
+<a href= https://github.com/alfadestruc17?tab=repositories&q=&type=&language=java&sort= > <img width='32px' src='https://img.icons8.com/?size=100&id=13679&format=png&color=000000'>
    
 </a>
 <h3>
