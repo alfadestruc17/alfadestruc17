@@ -83,6 +83,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alfadestruc17/alfadestruc17/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alfadestruc17/alfadestruc17/output" alt="Snake animation" />
 
 ###
